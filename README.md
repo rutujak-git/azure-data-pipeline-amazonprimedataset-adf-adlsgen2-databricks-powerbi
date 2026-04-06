@@ -3,6 +3,9 @@ End-to-end data engineering pipeline using Azure Data Factory (HTTP ingestion), 
 
 # End-to-End Data Engineering Pipeline using Azure & Databricks
 
+<img width="2563" height="1442" alt="image" src="https://github.com/user-attachments/assets/7015abaf-d86e-4b58-8f06-b973014a79bf" />
+
+
 ## 📌 Overview
 This project demonstrates a real-world, etl data pipeline built using Azure services and Databricks, based on the Amazon Prime Movies & TV Shows dataset.
 
