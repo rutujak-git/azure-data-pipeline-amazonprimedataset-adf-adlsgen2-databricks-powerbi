@@ -90,4 +90,5 @@ https://youtu.be/J1cyf5B1wWU?si=3Njr9bu4oxWTc5lw
 ---
 
 ## 📌 Dataset
-Amazon Prime Movies & TV Shows (Kaggle) : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVBzZXJSdjZMYkhWTDI4Qk96WXNaNTFSOXRxUXxBQ3Jtc0trck5Da1hpbFF4NmdTMEF2bDNWUXJla0RtSEQ0YkpGVVlheEtnNmpyLS00NlhEblVuYjFmeXQxbUZvV3U4REFoY2JvTnJCZnl6c2NFdXo3Z3JMSVpKQ2JyTTZtRy1DMUpmZlFCOFlxOVctRThWazBiSQ&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fshivamb%2Famazon-prime-movies-and-tv-shows&v=J1cyf5B1wWU
+
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
